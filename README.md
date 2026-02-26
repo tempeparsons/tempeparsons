@@ -2,7 +2,7 @@
 
 I am laboratory scientist turned bioinformatician, with a specialism in all types of mass spectrometry data.  
 I love programming in Python and am endlessly fascinated by patterns in data, and the power of these patterns to improve the world around us.   
-If you want to know more, please check out my Publications page and watch this space for links to software I'm writing, tutorials and forthcoming publications.   
+If you want to know more, please check out my Portfolio for links to my publications, software I'm writing, tutorials and forthcoming publications.   
 
 ## Contact Information
 Harriet T. Parsons, Cambridge UK  
